@@ -10,7 +10,7 @@ This Package is a simple race program that races to cars and has a small user in
 
 ## Getting Started
 
-Using this package is very simple, all you need is to have Git, clone the project and then the ASCII-race.py file, it will prompt the user to choose which option you would like and the program will execute that
+Using this package is very simple, all you need is to have Git, clone the project and then run the ASCII-race.py file, it will prompt the user to choose which option you would like and the program will execute that
 
 ## License
 
